@@ -6,10 +6,10 @@
     "test": "npx jest --watch"
   },
   "dependencies": {
-    "@docusaurus/core": "2.2.0",
-    "@docusaurus/plugin-ideal-image": "2.2.0",
-    "@docusaurus/preset-classic": "2.2.0",
-    "@docusaurus/theme-search-algolia": "2.2.0",
+    "@docusaurus/core": "^2.3.1",
+    "@docusaurus/plugin-ideal-image": "^2.3.1",
+    "@docusaurus/preset-classic": "^2.3.1",
+    "@docusaurus/theme-search-algolia": "^2.3.1",
     "@mdx-js/react": "^1.6.21",
     "@monaco-editor/react": "^4.4.6",
     "@svgr/webpack": "^6.0.0",

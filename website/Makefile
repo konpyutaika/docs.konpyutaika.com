@@ -1,13 +1,13 @@
 .PHONY: yarn install build
 
 run:
-	yarn start
+	npm start
 
 install:
-	yarn install
+	npm install
 
 build:
-	DOCS_ENV=build yarn run build
+	DOCS_ENV=build npm run build
 
 	# Create per-version redirects... hopefully we can phase these out as
 	# search engines de-index these absolute versioned URLs
