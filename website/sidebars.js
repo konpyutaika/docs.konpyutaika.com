@@ -64,33 +64,30 @@ const sidebarSettings = {
     // },
   ],
   guides: [
-    // {
-    //   type: "category",
-    //   label: "Best practices",
-    //   link: {
-    //     type: "generated-index",
-    //     title: "Best practice guides",
-    //     description:
-    //       "Learn how Konpyutaika team approaches building projects through our current viewpoints on structure, style, and setup.",
-    //     slug: "/guides/best-practices",
-    //   },
-    //   items: [
-    //     // {
-    //     //   type: "category",
-    //     //   label: "How we structure our dbt projects",
-    //     //   link: {
-    //     //     type: "doc",
-    //     //     id: "guides/best-practices/how-we-structure/1-guide-overview",
-    //     //   },
-    //     //   items: [
-    //     //     "guides/best-practices/how-we-structure/2-staging",
-    //     //     "guides/best-practices/how-we-structure/3-intermediate",
-    //     //     "guides/best-practices/how-we-structure/4-marts",
-    //     //     "guides/best-practices/how-we-structure/5-the-rest-of-the-project",
-    //     //   ],
-    //     // },
-    //   ],
-    // },
+    {
+      type: "category",
+      label: "Best practices",
+      link: {
+        type: "generated-index",
+        title: "Best practice guides",
+        description:
+          "Learn how Konpyutaika team approaches building projects through our current viewpoints on structure, style, and setup.",
+        slug: "/guides/best-practices",
+      },
+      items: [
+        {
+          type: "category",
+          label: "How we",
+          link: {
+            type: "doc",
+            id: "guides/best-practices/tmp/1-guide-overview",
+          },
+          items: [
+            "guides/best-practices/tmp/tmp",
+          ],
+        },
+      ],
+    },
     {
       type: "category",
       label: "Migration",

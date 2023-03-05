@@ -5,7 +5,6 @@ description: New features and changes in  v0.X
 ### Resources
 
 - [Changelog](https://github.com/konpyutaika/konpyutaika-platform/blob/main/CHANGELOG.md)
-- [CLI Installation guide](/docs/get-started/installation))
 
 :::info
 

@@ -1,9 +1,9 @@
 ### Latest Releases
 
-| Version                          | Initial Release | Support Level | Critical Support Until  | 
-|----------------------------------|-----------------|---------------|-------------------------|
-| [**v1.0**](upgrading-to-v1.0) ⚠️ | Dec 3, 2021     | End of Life ⚠️ | Dec 3, 2022 ⚠️             |
-| **v0.X** ⚠️                      | (Various dates) | End of Life ⚠️ | Deprecated ⚠️             | 
+| Version                      | Initial Release | Support Level | Critical Support Until  | 
+|------------------------------|-----------------|---------------|-------------------------|
+| **v1.0** ⚠️ | Dec 3, 2021     | End of Life ⚠️ | Dec 3, 2022 ⚠️             |
+| **v0.X** ⚠️                  | (Various dates) | End of Life ⚠️ | Deprecated ⚠️             | 
 
 ### Planned future releases
 

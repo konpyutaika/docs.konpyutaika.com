@@ -18,7 +18,7 @@ module.exports = function buildRSSFeedsPlugin(context, options) {
         return null
       
       // Generate RSS feeds
-      console.log('Generating RSS Feeds for dbt Cloud Release Notes')
+      console.log('Generating RSS Feeds for Konpyutaika Release Notes')
 
       // Prepare data and sort by update date
       const releaseNotesData = releaseNotesFiles.map(note => {
@@ -45,7 +45,7 @@ module.exports = function buildRSSFeedsPlugin(context, options) {
       const today = new Date()
       const feedObj = {
         title: "dbt Cloud Release Notes",
-        description: "dbt provides release notes for dbt Cloud so you can see recent and historical changes.",
+        description: "dbt provides release notes for Konpyutaika so you can see recent and historical changes.",
         id: siteUrl,
         link: siteUrl,
         language: "en",
@@ -78,7 +78,7 @@ module.exports = function buildRSSFeedsPlugin(context, options) {
       fs.writeFileSync('./static/feeds/atom.xml', feed.atom1())
       fs.writeFileSync('./static/feeds/rss.json', feed.json1())
 
-      console.log('RSS Feeds for dbt Cloud Release Notes created successfully.')
+      console.log('RSS Feeds for Kopnyutaika Release Notes created successfully.')
     },
 
   };

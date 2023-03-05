@@ -115,7 +115,7 @@ var siteSettings = {
           // activeBaseRegex: "docs/(?!(konpyutaika-cloud))",
         },
         {
-          to: "/reference/project.yml",
+          to: "/reference/profiles.yml",
           label: "Reference",
           position: "left",
           activeBasePath: "reference",

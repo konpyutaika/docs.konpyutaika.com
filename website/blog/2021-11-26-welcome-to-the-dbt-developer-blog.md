@@ -38,5 +38,3 @@ A brief overview of the types of posts that you will find on the blog:
 * **Data Ops:** Platform oriented content to manage the modern data stack.
 
 * **Data Ecosystem:** Walkthroughs of how top data practitioners use tools in the modern data stack.
-
-* **Product Updates:** An archive of  updates from the team.

@@ -34,7 +34,7 @@ function Home() {
   const featuredResource = {
     title: "Feature placeholder",
     description: "Description",
-    link: "/guides/best-practices/how-we-structure/1-guide-overview",
+    link: "/guides/best-practices/tmp/1-guide-overview",
     image: "/img/structure-dbt-projects.png",
     sectionTitle: 'Featured resource'
   }
@@ -88,7 +88,7 @@ function Home() {
                   <Card
                     title="Docs"
                     body="Discover everything Konpyutaika has to offer from the basics to advanced concepts."
-                    link="/docs/build/projects"
+                    link="/docs/deploy/deployments"
                     icon="docs"
                   />
                 </div>
@@ -136,7 +136,7 @@ function Home() {
                 <Card
                   title="Open source operators"
                   body="Manage by yourself your platform with the open sourced operators."
-                  link="/operators/about-operators"
+                  link="/"
                   icon="packages"
                 />
               </div>

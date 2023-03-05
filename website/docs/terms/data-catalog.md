@@ -25,7 +25,7 @@ Data catalogs are known for 6 features that make them so powerful for both data 
 
 ### Metadata
 
-Metadata is the data that describes data; this refers to characteristics like who created the dataset, its size, the databases and schemas it contains, and when it was last updated. It tells you where you can find a particular data source in terms of where it lives within your <Term id="data-warehouse" />. Those properties help an analytics engineer fully understand the data and its intricacies before working with it. 
+Metadata is the data that describes data; this refers to characteristics like who created the dataset, its size, the databases and schemas it contains, and when it was last updated. It tells you where you can find a particular data source in terms of where it lives within your data-warehouse Those properties help an analytics engineer fully understand the data and its intricacies before working with it. 
 
 ### Business glossary
 
@@ -33,7 +33,7 @@ Business glossaries within a data catalog are helpful for understanding how a da
 
 ### Data lineage
 
-<Term id="data-lineage">Data lineage</Term> provides a holistic view of how data moves through an organization, where it is transformed, protected, and consumed. Lineage shows the relationships between datasets and models across different platforms within your data stack. Lineage is particularly helpful for understanding dependencies between datasets. Depending on the tool you use, catalogs can show it on a dataset or even column level. This way, when you are updating any process within your stack, you can do so with these dependencies in mind.
+Data lineage provides a holistic view of how data moves through an organization, where it is transformed, protected, and consumed. Lineage shows the relationships between datasets and models across different platforms within your data stack. Lineage is particularly helpful for understanding dependencies between datasets. Depending on the tool you use, catalogs can show it on a dataset or even column level. This way, when you are updating any process within your stack, you can do so with these dependencies in mind.
 
 ### Collaboration
 
@@ -84,4 +84,3 @@ Data catalogs are a valuable asset to any data team and business as a whole. The
 ## Additional reading
 
 - [Why both data cataloging?](https://www.getdbt.com/analytics-engineering/transformation/data-catalog/)
-- [Glossary: Data warehouse](/terms/data-warehouse)

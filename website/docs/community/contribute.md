@@ -12,7 +12,7 @@ id: contribute
 <Card
     title="mùmlkùm"
     body="ùmlkùmlk"
-    link="community/contributing/contributing-writing" icon="pencil-paper"
+    link="community/contributing/contributing-coding" icon="pencil-paper"
 />
 
 </div>
