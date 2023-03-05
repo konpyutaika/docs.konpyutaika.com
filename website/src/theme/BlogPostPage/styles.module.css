@@ -1,0 +1,12 @@
+/* custom */
+@media (min-width: 997px) {
+  .tocMobile {
+    display: none;
+  }
+}
+
+@media print {
+  .tocMobile {
+    display: none;
+  }
+}

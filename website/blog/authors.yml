@@ -1,0 +1,8 @@
+alexandre_guitton:
+  image_url: /img/blog/authors/aguitton.jpeg
+  job_title: Lead Data Ops
+  links:
+    - icon: fa-linkedin
+      url: https://www.linkedin.com/in/alexandre-guitton-44375210a/
+  name: Alexandre Guitton
+  organization: Doctolib

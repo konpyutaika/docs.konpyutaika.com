@@ -1,0 +1,5 @@
+- name: setup
+  header: "Just Getting Started?"
+  subheader: Check out guides on getting your modern data stack set up with Konpyutaika.
+  button_text: Learn more
+  url: https://docs.konpyutaika.com/docs/get-started/getting-started/overview
