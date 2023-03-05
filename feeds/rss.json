@@ -1,0 +1,17 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "dbt Cloud Release Notes",
+    "home_page_url": "https://docs.konpyutaika.com",
+    "feed_url": "https://docs.konpyutaika.com/rss.json",
+    "description": "dbt provides release notes for Konpyutaika so you can see recent and historical changes.",
+    "icon": "https://www.getdbt.com/ui/img/blog/dbt-card.jpg",
+    "items": [
+        {
+            "id": "no-partial-parse-config",
+            "url": "https://docs.konpyutaika.com/docs/versions/release-notes/Feb-2023/no-partial-parse-config",
+            "title": "Disable partial parsing in dbt Cloud job commands",
+            "summary": "You can now disable partial parsing in dbt Cloud job commands.",
+            "date_modified": "2023-02-15T00:00:00.000Z"
+        }
+    ]
+}

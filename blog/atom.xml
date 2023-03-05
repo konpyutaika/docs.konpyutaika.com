@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://docs.konpyutaika.com/blog</id>
+    <title>Konpyutaika platform Blog</title>
+    <updated>2023-03-06T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://docs.konpyutaika.com/blog"/>
+    <subtitle>Konpyutaika platform Blog</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Welcome to the Konpyutaika  Blog]]></title>
+        <id>https://docs.konpyutaika.com/blog/welcome</id>
+        <link href="https://docs.konpyutaika.com/blog/welcome"/>
+        <updated>2023-03-06T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The modern data stack can be complex to understand. Managing the modern data stack is even more challenging. The purpose of this blog is to contribute to the knowledge loop and share everything we can about it.]]></summary>
+        <content type="html"><![CDATA[<p>The modern data stack can be complex to understand. Managing the modern data stack is even more challenging. </p><p>There are many technologies to ramp up on, integration between them to manage to enable your Data Mesh implementation.</p><p>Data platform teams can sometimes feel alone in finding the right path in this ever-changing world.</p><p>We will try to share our hard won knowledge with everyone, in doing so, pave the path for the next generations of data platform!</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="welcome-to-the-konpyutaika-developer-blog">Welcome to the Konpyutaika Developer Blog<a href="#welcome-to-the-konpyutaika-developer-blog" class="hash-link" aria-label="Direct link to Welcome to the Konpyutaika Developer Blog" title="Direct link to Welcome to the Konpyutaika Developer Blog">​</a></h2><p>The purpose of this blog is to contribute to the knowledge loop and share everything we can about it.</p><p>Konpyutaika as a product is based around the philosophy that even the most complicated problems can be broken down into modular, reusable components, then mixed and matched to create something novel.</p><p>This blog represents the exact same philosophy, just applied via the lens of written guides rather than code.</p><h2 class="anchor anchorWithHideOnScrollNavbar_WYt5" id="the-types-of-posts-youll-find-here">The Types of Posts You’ll Find Here<a href="#the-types-of-posts-youll-find-here" class="hash-link" aria-label="Direct link to The Types of Posts You’ll Find Here" title="Direct link to The Types of Posts You’ll Find Here">​</a></h2><p>A brief overview of the types of posts that you will find on the blog:</p><ul><li><p><strong>Konpyutaika:</strong> Best practices in usage of Konpyutaika platform.</p></li><li><p><strong>Data Ops:</strong> Platform oriented content to manage the modern data stack.</p></li><li><p><strong>Data Ecosystem:</strong> Walkthroughs of how top data practitioners use tools in the modern data stack.</p></li></ul>]]></content>
+        <author>
+            <name>Alexandre Guitton</name>
+        </author>
+        <category label="konpyutaika" term="konpyutaika"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dagster a data orchestrator]]></title>
+        <id>https://docs.konpyutaika.com/blog/dagster-a-data-orchestrator</id>
+        <link href="https://docs.konpyutaika.com/blog/dagster-a-data-orchestrator"/>
+        <updated>2022-12-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[dagster a data orchestrator]]></summary>
+        <content type="html"><![CDATA[<p>The <a href="https://www.getdbt.com/blog/dbt-certification-program" target="_blank" rel="noopener noreferrer">new dbt Certification Program</a> has been created by dbt Labs to codify the data development best practices that enable safe, confident, and impactful use of dbt. Taking the Certification allows dbt users to get recognized for the skills they’ve honed, and stand out to organizations seeking dbt expertise.</p><p>Over the last few months, <a href="https://www.montrealanalytics.com/" target="_blank" rel="noopener noreferrer">Montreal Analytics</a>, a full-stack data consultancy servicing organizations across North America, has had over 25 dbt Analytics Engineers become certified, earning them the 2022 dbt Platinum Certification award.</p><p>In this article, two Montreal Analytics consultants, Jade and Callie, discuss their experience in taking, and passing, the dbt Certification exam to help guide others looking to study for, and pass the exam.</p><p>coucou</p>]]></content>
+        <author>
+            <name>Alexandre Guitton</name>
+        </author>
+        <category label="data ops" term="data ops"/>
+        <category label="data ecosystem" term="data ecosystem"/>
+    </entry>
+</feed>

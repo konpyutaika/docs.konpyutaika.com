@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[3367],{1829:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/konpyutaika","page":1,"postsPerPage":20,"totalPages":1,"totalCount":1,"blogDescription":"Technical tutorials from the Konpyutaika team.","blogTitle":"Konpyutaika team Blog"}')}}]);

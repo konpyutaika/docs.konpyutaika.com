@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[6104],{2216:t=>{t.exports=JSON.parse('{"permalink":"/blog/tags/data-ecosystem","page":1,"postsPerPage":20,"totalPages":1,"totalCount":1,"blogDescription":"Technical tutorials from the Konpyutaika team.","blogTitle":"Konpyutaika team Blog"}')}}]);

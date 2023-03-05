@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to the Konpyutaika  Blog","permalink":"/blog/welcome"},{"title":"dagster a data orchestrator","permalink":"/blog/dagster-a-data-orchestrator"}]}')}}]);

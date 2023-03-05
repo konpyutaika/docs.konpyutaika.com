@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5452],{2210:e=>{e.exports=JSON.parse('{"image_url":"/img/blog/authors/aguitton.jpeg","job_title":"Lead Data Ops","links":[{"icon":"fa-linkedin","url":"https://www.linkedin.com/in/alexandre-guitton-44375210a/"}],"name":"Alexandre Guitton","organization":"Doctolib","slug":"alexandre_guitton"}')}}]);

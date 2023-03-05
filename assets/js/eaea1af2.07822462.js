@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[5860],{2366:a=>{a.exports=JSON.parse('{"label":"data ecosystem","permalink":"/blog/tags/data-ecosystem","allTagsPath":"/blog/tags","count":1}')}}]);

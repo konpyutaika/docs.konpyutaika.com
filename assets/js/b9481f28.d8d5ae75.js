@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[1437],{6656:a=>{a.exports=JSON.parse('{"permalink":"/blog/tags/data-ops","page":1,"postsPerPage":20,"totalPages":1,"totalCount":1,"blogDescription":"Technical tutorials from the Konpyutaika team.","blogTitle":"Konpyutaika team Blog"}')}}]);
