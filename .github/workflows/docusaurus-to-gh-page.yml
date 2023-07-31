@@ -17,8 +17,6 @@ jobs:
         with:
           node-version: 18
           cache: npm
-      - name: workspace
-        run: cd website
       - name: Install dependencies
         run: cd website && npm install --frozen-lockfile
       - name: Build website
